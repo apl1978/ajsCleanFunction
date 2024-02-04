@@ -1,6 +1,5 @@
-image: ubuntu1804
-
-stack: node 18
+environtment:
+  nodejs_version: "18"
 
 branches:
   only:
