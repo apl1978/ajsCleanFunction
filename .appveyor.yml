@@ -1,4 +1,4 @@
-environtment:
+environment:
   nodejs_version: "18"
 
 branches:
